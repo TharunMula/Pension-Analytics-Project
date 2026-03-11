@@ -2,7 +2,7 @@
 
 A complete end‑to‑end data analytics project exploring pension trends, regional patterns, and retirement insights. This project demonstrates data cleaning using Python, data analysis using SQL, and interactive dashboard development in Power BI.
 
-**🛠️ Tech Stack**
+**🛠️ Tech Stack**:
 
 Python – data cleaning, preprocessing, feature formatting
 
@@ -12,7 +12,7 @@ Power BI – dashboard design, DAX measures, visual analytics
 
 Excel – initial dataset exploration
 
-**📂 Project Workflow**
+**📂 Project Workflow**:
 
   1. Data Cleaning (Python):
      
@@ -50,7 +50,7 @@ Excel – initial dataset exploration
     
     Dynamic date‑range filtering
 
-**📊 Key Insights**
+**📊 Key Insights**:
 
   North region has the highest average monthly pension
   
