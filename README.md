@@ -1,4 +1,5 @@
 **📌 Pension Analytics Project**
+
 A complete end‑to‑end data analytics project exploring pension trends, regional patterns, and retirement insights. This project demonstrates data cleaning using Python, data analysis using SQL, and interactive dashboard development in Power BI.
 
 **🛠️ Tech Stack**
